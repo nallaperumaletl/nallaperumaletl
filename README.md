@@ -18,7 +18,6 @@
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sqlite&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 ![Informatica](https://img.shields.io/badge/Informatica-DD0031?logo=informatica&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white) 
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black) 
