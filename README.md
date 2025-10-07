@@ -11,7 +11,7 @@
 - 🌱 **Learning:** Cloud-native ETL orchestration & performance tuning.  
 - 🛠 **Experience:**  Extensive work with **Informatica PowerCenter & IICS** — designing, developing, and optimizing complex mappings, workflows, and sessions.  
 - 📊 **Love to Work With:** High-volume datasets, distributed processing, and end-to-end data integration.  
-- 📫 **Reach me at:** [nallaperumal.dev@gmail.com](mailto:nallaperumal.dev@gmail.com)  
+- 📫 **Reach me at:** [nallaperumal.de@gmail.com](mailto:nallaperumal.de@gmail.com)  
 
 ---
 
