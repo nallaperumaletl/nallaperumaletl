@@ -30,6 +30,7 @@
 ![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?logo=singlestore&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![Azure Data Lake Gen2](https://img.shields.io/badge/Azure%20Data%20Lake%20Gen2-0089D6?logo=microsoftazure&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
